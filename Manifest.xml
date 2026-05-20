@@ -116,15 +116,15 @@ This XML file does not appear to have any style information associated with it. 
 <!--  Resources  -->
 <Resources>
 <bt:Images>
-<bt:Image id="Icon.16x16" DefaultValue="https://aigoniyo.com/assets/icons/icon-16.png"/>
-<bt:Image id="Icon.32x32" DefaultValue="https://aigoniyo.com/assets/icons/icon-32.png"/>
-<bt:Image id="Icon.80x80" DefaultValue="https://aigoniyo.com/assets/icons/icon-80.png"/>
+<bt:Image id="Icon.16x16" DefaultValue="https://github.com/Dpanda2006/UPSIcomp/blob/main/icon-16.png"/>
+<bt:Image id="Icon.32x32" DefaultValue="https://github.com/Dpanda2006/UPSIcomp/blob/main/icon-32.png"/>
+<bt:Image id="Icon.80x80" DefaultValue="https://github.com/Dpanda2006/UPSIcomp/blob/main/icon-80.png"/>
 </bt:Images>
 <bt:Urls>
 <!--  Shared Runtime HTML page (hosts taskpane UI + event handlers)  -->
-<bt:Url id="Taskpane.Url" DefaultValue="https://aigoniyo.com/src/taskpane/taskpane.html"/>
+<bt:Url id="Taskpane.Url" DefaultValue="https://github.com/Dpanda2006/UPSIcomp/blob/main/taskpane.html"/>
 <!--  Pure-JS fallback for Outlook on Windows desktop  -->
-<bt:Url id="Events.Url" DefaultValue="https://aigoniyo.com/src/launchevents/launchevents.js"/>
+<bt:Url id="Events.Url" DefaultValue="https://github.com/Dpanda2006/UPSIcomp/blob/main/launchevents.js"/>
 </bt:Urls>
 <bt:ShortStrings>
 <bt:String id="GroupLabel" DefaultValue="UPSI Compliance"/>
