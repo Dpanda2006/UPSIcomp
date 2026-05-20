@@ -7,11 +7,11 @@ This XML file does not appear to have any style information associated with it. 
 <DefaultLocale>en-US</DefaultLocale>
 <DisplayName DefaultValue="UPSI Compliance Guard"/>
 <Description DefaultValue="Real-time threat detection for UPSI compliance in Outlook."/>
-<IconUrl DefaultValue="https://aigoniyo.com/assets/icons/icon-80.png"/>
+<IconUrl DefaultValue="https://github.com/Dpanda2006/UPSIcomp/blob/main/icon-80.png"/>
 <HighResolutionIconUrl DefaultValue="https://aigoniyo.com/assets/icons/icon-80.png"/>
-<SupportUrl DefaultValue="https://aigoniyo.com/support"/>
+<SupportUrl DefaultValue="https://github.com/Dpanda2006/UPSIcomp/blob/main"/>
 <AppDomains>
-<AppDomain>https://aigoniyo.com</AppDomain>
+<AppDomain>https://github.com</AppDomain>
 </AppDomains>
 <Hosts>
 <Host Name="Mailbox"/>
