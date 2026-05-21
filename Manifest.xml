@@ -19,6 +19,7 @@
   <AppDomains>
     <AppDomain>https://github.com</AppDomain>
     <AppDomain>https://raw.githubusercontent.com</AppDomain>
+    <AppDomain>https://appsforoffice.microsoft.com</AppDomain>
   </AppDomains>
 
   <Hosts>
