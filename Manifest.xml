@@ -51,7 +51,7 @@ This XML file does not appear to have any style information associated with it. 
        -->
 <Requirements>
 <bt:Sets>
-<bt:Set Name="Mailbox" MinVersion="1.12"/>
+<bt:Set Name="Mailbox" MinVersion="1.8"/>
 </bt:Sets>
 </Requirements>
 <Hosts>
@@ -104,7 +104,8 @@ This XML file does not appear to have any style information associated with it. 
               using a Shared Runtime.  Do NOT point this at the JS file —
               that causes schema validation failures and installation errors.
              -->
-<ExtensionPoint xsi:type="LaunchEvent">
+
+
 <LaunchEvents>
 <LaunchEvent Type="OnNewMessageCompose" FunctionName="onNewMessageComposeHandler"/>
 <LaunchEvent Type="OnMessageSend" FunctionName="onMessageSendHandler" SendMode="SoftBlock"/>
